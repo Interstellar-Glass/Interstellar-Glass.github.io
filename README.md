@@ -1,3 +1,3 @@
 # Interstellar-Glass.github.io
 
-## Public 2
+## Version 1
